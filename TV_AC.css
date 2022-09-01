@@ -1,0 +1,22 @@
+body{
+    background-position:cover;
+    }
+    #back_button{
+    background-color:black;
+    color:white;
+    float:right;
+    }
+    .heading{
+    width:100%;
+    font-size:20px;
+    }
+    canvas{
+    box-shadow:10px 10px 10px grey;
+    border-radius:15px;
+    margin-top:60px;
+    }
+    h2{
+    background-color:lightgreen;
+    color:white;
+    width: 1000px;;
+    }
